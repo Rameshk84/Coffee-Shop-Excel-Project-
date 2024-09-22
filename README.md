@@ -1,6 +1,5 @@
 # Coffee-Shop-Excel-Project-
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/40c056d7-7d32-4b14-ae06-b00e58e8f3b1)
 
 
 **⚡The data consists of two sheets with different focus areas:**
